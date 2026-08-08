@@ -65,11 +65,3 @@
 </p>
 
 ---
-
-### 🐍 Snake Game (contribuições animadas)
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Fiaschiii/Fiaschiii/output/github-contribution-grid-snake.svg" />
-</p>
-
----
